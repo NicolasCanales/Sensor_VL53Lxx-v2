@@ -8,4 +8,13 @@ Para instalar la librería correcta para el módulo de distancia VL53Lxx-v2 es n
 
 La libreria que debe instalarse es la tercera, llamada "SparkFun VL53L1X 4m Laser Distance Sensor", una vez ya instalada, encontrarás en el apartado de ejemplos, carpeta "SparkFun VL53L1X 4m Laser Distance Sensor" una serie de códigos listos para ejecutar, uno de ellos es el archivo "Example1_ReadDistance.ino" que permite leer la distancia y los imprime en consola en mm.
 
+Si se descarga el archivo adjuntado en el GitHub debería funcionar todo correctamente.
+
+**NOTA: Una cosa a tener en cuenta al cargar código al arduino nano específico usado en este proyecto es que en "Herramientas" del IDE de arduino, hay que ir a la opción de procesador y elegir la opción "ATmega328P (Old Bootloader)". De esta forma no habrá ningún problema.**
+
+## Esquema de conexiones
+
+
+
+
 
