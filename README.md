@@ -14,6 +14,12 @@ Si se descarga el archivo adjuntado en el GitHub debería funcionar todo correct
 
 ## Esquema de conexiones
 
+![schematicDistance](https://user-images.githubusercontent.com/50645020/121569677-09941b00-c9ef-11eb-9f6e-2fb289564962.png)
+
+Teniendo en consideración el siguiente Layout de pines para Arduino Nano
+
+![image](https://user-images.githubusercontent.com/50645020/121569833-36483280-c9ef-11eb-97bc-84c8949436bf.png)
+
 
 
 
